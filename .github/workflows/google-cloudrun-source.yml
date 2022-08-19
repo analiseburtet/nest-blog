@@ -53,7 +53,7 @@ on:
 
 env:
   PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
-  SERVICE: nest-blog-00001-dal
+  SERVICE: nest-blog
   REGION: us-central1
 
 jobs:
